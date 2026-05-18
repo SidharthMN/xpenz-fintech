@@ -110,3 +110,11 @@ xpenz/
 - **Chart.js 4** + **react-chartjs-2**
 - **react-icons**
 - **AWS Lambda** + **API Gateway** + **DynamoDB**
+
+- ## 📦 GitHub Repository
+
+https://github.com/SidharthMN/xpenz-fintech
+
+## 🌐 Live Demo
+
+https://xpenz-fintech.netlify.app/
