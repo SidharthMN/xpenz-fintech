@@ -1,0 +1,16 @@
+# Requirements for running Xpenz locally
+
+node>=18
+npm>=9
+
+# Install dependencies
+npm install
+
+# Run web app during development
+npm run dev
+
+# Run Electron desktop version in development
+npm run electron:dev
+
+# Build Electron desktop package
+npm run electron:build
