@@ -3,6 +3,15 @@
 A cloud-native fintech expense tracking dashboard built with **React Vite + Tailwind CSS + Chart.js**, connected to a fully serverless AWS backend (Lambda + API Gateway + DynamoDB).
 
 ---
+# Simple Logic
+
+Created a DynamoDB table to store user expenses
+• Used AWS Lambda functions to handle backend logic like:
+saving expenses
+fetching expense history
+calculating totals and analytics
+• Connected Lambda using API Gateway to create secure REST APIs
+• Built a React Vite frontend dashboard to interact with the AWS backend in real time
 
 ## 🚀 Quick Start
 
