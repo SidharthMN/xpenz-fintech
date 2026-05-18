@@ -10,7 +10,7 @@ Created a DynamoDB table to store user expenses
 saving expenses
 fetching expense history
 calculating totals and analytics
-• Connected Lambda using API Gateway to create secure REST APIs
+• Connected Lambda using API Gateway to create POST/GET secure REST APIs
 • Built a React Vite frontend dashboard to interact with the AWS backend in real time
 
 ## 🚀 Quick Start
